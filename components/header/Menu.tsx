@@ -47,7 +47,7 @@ function Menu({ navItems = [] }: Props) {
             href="/wishlist"
           >
             <Icon id="favorite" />
-            <span class="text-sm">Lista de desejos</span>
+            <span class="text-sm">Lista de requerimentos</span>
           </a>
         </li>
         <li>
